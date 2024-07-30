@@ -6,73 +6,86 @@
 				0
 			],
 			"loop": false,
-			"fps": 24,
+			"fps": 20,
 			"anim": "idle",
 			"indices": [],
-			"name": "LG Idle"
+			"name": "idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-107,
-				-24
+				2,
+				-2
 			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "LG Down",
-			"indices": []
-		},
-		{
 			"loop": false,
-			"offsets": [
-				-151,
-				-31
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "LG Right",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				17,
-				-42
-			],
+			"fps": 20,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "LG Left",
-			"indices": []
+			"indices": [],
+			"name": "left"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-104,
-				74
+				-84,
+				-4
 			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-1,
+				-4
+			],
+			"loop": false,
+			"fps": 20,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "LG Up",
-			"indices": []
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				4,
+				-2
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-114,
+				0
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "idle2",
+			"loop": true,
+			"name": "whiteidle"
 		}
 	],
+	"vocals_file": "",
 	"no_antialiasing": false,
-	"image": "characters/LG_Sprites",
+	"image": "characters/ytp/lonewarrior",
 	"position": [
-		-90,
-		80
+		280,
+		330
 	],
-	"healthicon": "LG",
+	"healthicon": "lonewarrior",
 	"flip_x": false,
 	"healthbar_colors": [
-		34,
-		78,
-		55
+		255,
+		255,
+		255
 	],
 	"camera_position": [
-		-30,
-		-60
+		-450,
+		-200
 	],
-	"sing_duration": 4,
-	"scale": 0.6
+	"sing_duration": 6.1,
+	"scale": 3,
+	"_editor_isPlayer": false
 }

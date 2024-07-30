@@ -8,72 +8,73 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "Ultra M idle",
+			"name": "weegee new idle",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				845,
-				-27
+				22,
+				-67
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "Ultra M left",
+			"name": "weegee new left",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				428,
-				62
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "Ultra M right",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				493,
-				-219
+				-49,
+				-69
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "Ultra M down",
+			"name": "weegee new down",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				531,
-				441
+			 -105,
+				11
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "Ultra M up",
+			"name": "weegee new up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-26
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "new weegee right",
 			"indices": []
 		}
 	],
+	"vocals_file": "",
 	"no_antialiasing": false,
-	"image": "characters/Ultra_M1_Assets",
+	"image": "characters/ytp/weegee",
 	"position": [
-		-400,
-		-900
+		0,
+		0
 	],
-	"healthicon": "ultram",
+	"healthicon": "weegee",
 	"flip_x": false,
 	"healthbar_colors": [
-		208,
-		37,
-		55
+		0,
+		164,
+		0
 	],
 	"camera_position": [
-		-70,
-		-100
+		-10,
+		-70
 	],
-	"sing_duration": 15,
-	"idleReturn": true,
-	"scale": 1.11
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
 }
