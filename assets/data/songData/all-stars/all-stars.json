@@ -24783,7 +24783,7 @@
 		"player3": "gfplayable",
 		"splashSkin": "noteSplashes",
 		"song": "All-Stars",
-		"needsVoices": true,
+		"needsVoices": false,
 		"arrowSkin": "",
 		"validScore": true,
 		"stage": "allfinal",
